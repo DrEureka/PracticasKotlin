@@ -1,11 +1,11 @@
 package com.drdev.andoridmaster
 
 fun main(){
-    print("Variables ")
+    println("Variables ")
     /**
      * Variables numericas
      */
-
+    //Todo: Variable inmutable se utiliza la descripcion "val" y cuando puede ser mutable se utiliza "var"
 
     //todo: creo una variable tipo int con los ":" me permite ingresar el tipo de variable que va ser
     // Esto funciona porque kotlin es de programacion tipado fuerte entonces hay que aplicar el formato correcto para el tipo correcto.
@@ -49,7 +49,7 @@ fun main(){
     /**
      * invoco la variable
      */
-print(floatEjemplo)
+println(floatEjemplo)
 
 
 
