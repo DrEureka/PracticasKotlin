@@ -1,5 +1,9 @@
 package com.drdev.andoridmaster
 
 fun main(){
-    print("hola")
+    print("Variables")
+    /**
+     * Variables
+     */
+
 }
